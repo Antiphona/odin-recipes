@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;
+}
+h1, h2 {
+    font-family: "Times New Roman", Garamond, serif;
+    text-align: center;
+}
+h1 {
+    font-size: 28px;
+    background-color: maroon;
+    color: whitesmoke;
+}
+h2 {
+    font-size: 24px;
+    color: maroon;
+}
+ul, ol {
+    line-height: 200%;
+}
+a:link {
+    font-weight: bold;
+    color: blueviolet;
+}
+a:visited {
+    font-weight: lighter;
+    font-style: italic;
+    color: maroon;
+}
+a:active {
+    color: blueviolet;
+    text-transform: uppercase;
+}
+img {
+    height: 250px;
+    width: auto;
+    border-color: maroon;
+    border-width: 3px;
+    border-style: double;
+    float: right;
+    margin-left: 5px;
+}
